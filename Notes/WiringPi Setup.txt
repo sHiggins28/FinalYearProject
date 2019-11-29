@@ -1,0 +1,27 @@
+enabling wiringPi.
+
+check if its installed -  
+gpio -v
+gpio readall
+
+
+to install - sudo apt-get install wiringpi
+if install as a package run
+
+
+sudo apt-get purge wiringpi
+hash -r
+
+to install git 
+
+sudo apt-get install git-core
+
+if needs be update OS
+
+sudo apt-get update
+sudo apt-get upgrade
+
+to obtain Wiring Pi using GIT
+
+cd
+git clone git://git.drogon.net/wiringPi
