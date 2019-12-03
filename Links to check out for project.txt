@@ -1,5 +1,0 @@
-links to site for project!!
-
-https://www.pyimagesearch.com/2018/09/26/install-opencv-4-on-your-raspberry-pi/
-
-https://hackernoon.com/building-obstacle-avoiding-bot-using-raspberry-pi-part-1-4f930d1fa6f8
