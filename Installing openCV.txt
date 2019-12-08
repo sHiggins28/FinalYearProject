@@ -1,0 +1,13 @@
+https://www.learnopencv.com/install-opencv-4-on-raspberry-pi/
+
+
+c++/python
+
+https://solarianprogrammer.com/2019/09/17/install-opencv-raspberry-pi-raspbian-cpp-python-development/
+
+
+video c++
+
+https://www.opencv-srf.com/2017/12/play-video-from-file-or-camera.html
+
+https://randomnerdtutorials.com/video-streaming-with-raspberry-pi-camera/
