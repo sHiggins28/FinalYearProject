@@ -1,3 +1,9 @@
 [submodule "FinalYearApps"]
 	path = FinalYearApps
 	url = https://github.com/sHiggins28/FinalYearApps.git
+[submodule "ProjectAppCode"]
+	path = ProjectAppCode
+	url = https://github.com/sHiggins28/ProjectAppCode.git
+[submodule "ProjectAppCode2"]
+	path = ProjectAppCode2
+	url = https://github.com/sHiggins28/ProjectAppCode2.git
